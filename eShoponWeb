@@ -1,0 +1,4 @@
+git clone https://github.com/your-username/eShopOnWeb.git
+cd eShopOnWeb
+git remote add origin https://github.com/your-username/eShopOnWeb-MyRepo.git
+git push -u origin main
